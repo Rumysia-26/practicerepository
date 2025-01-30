@@ -36,6 +36,9 @@ public class MergeSort {
 
         merge(arr, L, R, mid, n - mid);
     }
+	void add1{
+		
+	}
 
 
 	public static void main(String[] args) {
